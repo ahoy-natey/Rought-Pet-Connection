@@ -1,0 +1,12 @@
+.navbar {
+
+    background-color: #E95420;
+}
+
+.jumbotron{
+    background-image: url('/images/rise-new-human-species-shutterstock_569154337.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    color: aliceblue;
+}
