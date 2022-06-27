@@ -1,0 +1,12 @@
+.navbar {
+
+    background-color: #E95420;
+}
+
+.jumbotron{
+    background-image: url('/images/Rhodesian-Ridgeback-Dog.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    color: aliceblue;
+}

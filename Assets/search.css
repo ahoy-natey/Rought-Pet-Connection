@@ -1,0 +1,71 @@
+.navbar {
+
+    background-color: #E95420;
+}
+
+aside{
+    background-color: #E95420;
+    display: flex;
+    justify-content: start;
+    float:left;
+    height: 1000px;
+    padding-top: 10px;
+    margin-top: 10px;
+    flex-direction: column;
+}
+
+.content1{
+
+    
+    background-image: url('/images/ap300370671383_wide-e907716e290a0b70af798f66abe5b7e4ef40d8dd.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 200px;
+    margin: 20px;
+}
+.content2{
+
+    
+    background-image: url('/images/Rhodesian-Ridgeback-Dog.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 200px;
+    margin: 20px;
+}
+.content3{
+
+    
+    background-image: url('/images/Cardigan-Welsh-Corgi-scaled-1024x683.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 200px;
+    margin: 20px;
+}
+.content4{
+
+    
+    background-image: url('/images/ap300370671383_wide-e907716e290a0b70af798f66abe5b7e4ef40d8dd.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 200px;
+    margin: 20px;
+}
+
+.searchAlign{
+
+    display: flex;
+    justify-content: end;
+    flex-direction: column;
+    position: relative;
+    left: 400px;
+}
+
+.aa{
+    color: aliceblue;
+    text-decoration: underline;
+}
+
+.title{
+
+    font-size: xx-large;
+}

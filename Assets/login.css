@@ -1,0 +1,49 @@
+:root{
+    background-color: #E95420;
+
+}
+
+html {
+    background-color: #E95420;
+}
+
+body {
+    background-color: #E95420;
+}
+
+.header{
+    color: aliceblue;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.backimg{
+    background-image: url('/images/golden-retriever.jpg');
+    height: 1000px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.loginbox{
+    width: 500px;
+    height: 300px;
+    background-color: aliceblue;
+    opacity: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.loginInputs{
+
+    display: flex;
+    flex-direction: column;
+    
+}
